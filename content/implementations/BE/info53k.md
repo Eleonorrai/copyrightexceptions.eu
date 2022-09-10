@@ -8,11 +8,11 @@ exceptions:
 jurisdictions:
 - BE
 score: 3
-description: "Under this exception, once a work has been lawfully published, its author may not prohibit its use for the purpose of caricature, parody or pastiche, observing fair practice." 
+description: "Under this exception, once a work has been lawfully published, its author may not prohibit its use for the purpose of caricature, parody, or pastiche, observing fair practice." 
 beneficiaries:
 - any user
 purposes: 
-- for the purpose of caricature, parody or pastiche
+- for the purpose of caricature, parody, or pastiche
 usage:
 - any use
 subjectmatter:
